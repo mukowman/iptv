@@ -1,0 +1,175 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/au/Brisbane/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="4BC Brisbane" tvg-id="radio.ih.6711" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6711.png" radio="true",4BC Brisbane
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6711 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6711 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="4KQ693" tvg-id="radio.ih.6175" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6175.png" radio="true",4KQ693
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6175 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6175 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="91.7 ABC Gold Coast" tvg-id="radio.ih.7129" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7129.png" radio="true",91.7 ABC Gold Coast
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7129 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7129 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="97.3 FM" tvg-id="radio.ih.6176" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6176.png" radio="true",97.3 FM
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6176 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6176 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Capricornia" tvg-id="radio.ih.7986" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7986.png" radio="true",ABC Capricornia
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7986 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7986 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Classic 2" tvg-id="radio.ih.7123" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png" radio="true",ABC Classic 2
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7123 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7123 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Classic FM" tvg-id="radio.ih.7118" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7118.png" radio="true",ABC Classic FM
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7118 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7118 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Country" tvg-id="radio.ih.7125" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7125.png" radio="true",ABC Country
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7125 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7125 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Far North" tvg-id="radio.ih.7138" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7138.png" radio="true",ABC Far North
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7138 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7138 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Grandstand" tvg-id="radio.ih.7112" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7112.png" radio="true",ABC Grandstand
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7112 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7112 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Jazz" tvg-id="radio.ih.7124" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7124.png" radio="true",ABC Jazz
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7124 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7124 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC KIDS Listen" tvg-id="radio.ih.7967" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7967.png" radio="true",ABC KIDS Listen
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7967 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7967 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC News" tvg-id="radio.ih.7110" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7110.png" radio="true",ABC News
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7110 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7110 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC North Queensland" tvg-id="radio.ih.7987" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7987.png" radio="true",ABC North Queensland
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7987 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7987 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC North West Queensland" tvg-id="radio.ih.7139" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7139.png" radio="true",ABC North West Queensland
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7139 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7139 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Radio Brisbane" tvg-id="radio.ih.7127" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7127.png" radio="true",ABC Radio Brisbane
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7127 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7127 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Southern Queensland" tvg-id="radio.ih.7140" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7140.png" radio="true",ABC Southern Queensland
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7140 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7140 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Tropical North" tvg-id="radio.ih.7988" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7988.png" radio="true",ABC Tropical North
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7988 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7988 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Western Queensland" tvg-id="radio.ih.7141" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7141.png" radio="true",ABC Western Queensland
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7141 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7141 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Wide Bay" tvg-id="radio.ih.7989" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7989.png" radio="true",ABC Wide Bay
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7989 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7989 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="AndrewHaug.com Metal Radio" tvg-id="radio.ih.7421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7421.png" radio="true",AndrewHaug.com Metal Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7421 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7421 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Asia Pop 40" tvg-id="radio.ih.6995" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6995.png" radio="true",Asia Pop 40
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6995 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6995 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Bondi Radio" tvg-id="radio.ih.7308" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7308.png" radio="true",Bondi Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7308 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7308 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Chemist Warehouse Remix" tvg-id="radio.ih.6178" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6178.png" radio="true",Chemist Warehouse Remix
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6178 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6178 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Curtin Radio" tvg-id="radio.curtin.radio" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.curtin.radio.png" radio="true",Curtin Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.curtin.radio -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.curtin.radio -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Double J" tvg-id="radio.ih.7969" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7969.png" radio="true",Double J
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7969 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7969 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Double J" tvg-id="radio.double.j" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png" radio="true",Double J
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.double.j -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.double.j -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Guzman Y Gomez" tvg-id="radio.ih.7260" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png" radio="true",Guzman Y Gomez
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7260.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7260 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="JOY" tvg-id="radio.ih.7547" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7547.png" radio="true",JOY
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7547 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7547 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Kinderling Kids Radio" tvg-id="radio.ih.7922" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7922.png" radio="true",Kinderling Kids Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7922 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7922 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Kinderling Kids Radio" tvg-id="radio.ih.7918" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7918.png" radio="true",Kinderling Kids Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7918 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7918 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Little Rockers Radio" tvg-id="radio.ih.6970" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6970.png" radio="true",Little Rockers Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6970 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6970 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Macquarie Sports Radio 882 AM" tvg-id="radio.ih.6713" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6713.png" radio="true",Macquarie Sports Radio 882 AM
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6713 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6713 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="RN" tvg-id="radio.ih.7111" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7111.png" radio="true",RN
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7111 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7111 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Radio Australia" tvg-id="radio.ih.8005" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.8005.png" radio="true",Radio Australia
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.8005 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8005 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Radio Dead" tvg-id="radio.ih.7415" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7415.png" radio="true",Radio Dead
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7415 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7415 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS Arabic24" tvg-id="radio.ih.7030" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7030.png" radio="true",SBS Arabic24
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7030 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7030 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS Chill" tvg-id="radio.ih.7029" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7029.png" radio="true",SBS Chill
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7029 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7029 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS PopAsia" tvg-id="radio.ih.7028" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7028.png" radio="true",SBS PopAsia
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7028 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7028 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS PopDesi" tvg-id="radio.ih.7031" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7031.png" radio="true",SBS PopDesi
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7031 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7031 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS Radio 1" tvg-id="radio.ih.6998" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6998.png" radio="true",SBS Radio 1
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6998 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6998 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS Radio 2" tvg-id="radio.ih.7025" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7025.png" radio="true",SBS Radio 2
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7025 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7025 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS Radio 3" tvg-id="radio.ih.7026" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7026.png" radio="true",SBS Radio 3
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7026 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7026 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Sydney Gay Lesbian Mardi Gras" tvg-id="radio.ih.7293" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7293.png" radio="true",Sydney Gay Lesbian Mardi Gras
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7293 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7293 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="The 80s iHeartRadio" tvg-id="radio.ih.6794" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6794.png" radio="true",The 80s iHeartRadio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6794 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6794 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="The 90s iHeartRadio" tvg-id="radio.ih.6793" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6793.png" radio="true",The 90s iHeartRadio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6793 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6793 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="The Edge Digital" tvg-id="radio.ih.6180" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6180.png" radio="true",The Edge Digital
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6180 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6180 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="The Faction Radio" tvg-id="radio.ih.7419" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7419.png" radio="true",The Faction Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7419 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7419 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Vibe Machine Radio" tvg-id="radio.ih.8137" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.8137.png" radio="true",Vibe Machine Radio
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.8137 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8137 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="iHeartAustralia" tvg-id="radio.ih.7050" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7050.png" radio="true",iHeartAustralia
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7050 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7050 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="iHeartCountry Australia" tvg-id="radio.ih.7222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7222.png" radio="true",iHeartCountry Australia
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7222 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7222 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="iHeartRadio Countdown AUS" tvg-id="radio.ih.6902" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6902.png" radio="true",iHeartRadio Countdown AUS
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6902 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6902 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="iHeartRadio Dance" tvg-id="radio.ih.6941" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6941.png" radio="true",iHeartRadio Dance
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6941 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6941 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="iHeartRadio Old Skool" tvg-id="radio.ih.6996" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6996.png" radio="true",iHeartRadio Old Skool
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6996 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6996 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="iHeartYou" tvg-id="radio.ih.7075" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7075.png" radio="true",iHeartYou
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7075 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7075 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="triplej" tvg-id="radio.ih.7973" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7973.png" radio="true",triplej
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7973 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7973 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="triplej" tvg-id="radio.ih.7115" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7115.png" radio="true",triplej
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7115 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7115 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="triplej Unearthed" tvg-id="radio.ih.7116" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7116.png" radio="true",triplej Unearthed
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7116 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7116 -f mpegts pipe:1

@@ -1,0 +1,175 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/au/Brisbane/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="4BC Brisbane" tvg-id="radio.ih.6711" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6711.png" radio="true",4BC Brisbane
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6711
+
+#EXTINF:-1 tvg-name="4KQ693" tvg-id="radio.ih.6175" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6175.png" radio="true",4KQ693
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6175
+
+#EXTINF:-1 tvg-name="91.7 ABC Gold Coast" tvg-id="radio.ih.7129" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7129.png" radio="true",91.7 ABC Gold Coast
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7129
+
+#EXTINF:-1 tvg-name="97.3 FM" tvg-id="radio.ih.6176" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6176.png" radio="true",97.3 FM
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6176
+
+#EXTINF:-1 tvg-name="ABC Capricornia" tvg-id="radio.ih.7986" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7986.png" radio="true",ABC Capricornia
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7986
+
+#EXTINF:-1 tvg-name="ABC Classic 2" tvg-id="radio.ih.7123" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png" radio="true",ABC Classic 2
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7123
+
+#EXTINF:-1 tvg-name="ABC Classic FM" tvg-id="radio.ih.7118" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7118.png" radio="true",ABC Classic FM
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7118
+
+#EXTINF:-1 tvg-name="ABC Country" tvg-id="radio.ih.7125" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7125.png" radio="true",ABC Country
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7125
+
+#EXTINF:-1 tvg-name="ABC Far North" tvg-id="radio.ih.7138" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7138.png" radio="true",ABC Far North
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7138
+
+#EXTINF:-1 tvg-name="ABC Grandstand" tvg-id="radio.ih.7112" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7112.png" radio="true",ABC Grandstand
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7112
+
+#EXTINF:-1 tvg-name="ABC Jazz" tvg-id="radio.ih.7124" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7124.png" radio="true",ABC Jazz
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7124
+
+#EXTINF:-1 tvg-name="ABC KIDS Listen" tvg-id="radio.ih.7967" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7967.png" radio="true",ABC KIDS Listen
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7967
+
+#EXTINF:-1 tvg-name="ABC News" tvg-id="radio.ih.7110" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7110.png" radio="true",ABC News
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7110
+
+#EXTINF:-1 tvg-name="ABC North Queensland" tvg-id="radio.ih.7987" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7987.png" radio="true",ABC North Queensland
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7987
+
+#EXTINF:-1 tvg-name="ABC North West Queensland" tvg-id="radio.ih.7139" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7139.png" radio="true",ABC North West Queensland
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7139
+
+#EXTINF:-1 tvg-name="ABC Radio Brisbane" tvg-id="radio.ih.7127" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7127.png" radio="true",ABC Radio Brisbane
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7127
+
+#EXTINF:-1 tvg-name="ABC Southern Queensland" tvg-id="radio.ih.7140" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7140.png" radio="true",ABC Southern Queensland
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7140
+
+#EXTINF:-1 tvg-name="ABC Tropical North" tvg-id="radio.ih.7988" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7988.png" radio="true",ABC Tropical North
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7988
+
+#EXTINF:-1 tvg-name="ABC Western Queensland" tvg-id="radio.ih.7141" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7141.png" radio="true",ABC Western Queensland
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7141
+
+#EXTINF:-1 tvg-name="ABC Wide Bay" tvg-id="radio.ih.7989" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7989.png" radio="true",ABC Wide Bay
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7989
+
+#EXTINF:-1 tvg-name="AndrewHaug.com Metal Radio" tvg-id="radio.ih.7421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7421.png" radio="true",AndrewHaug.com Metal Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7421
+
+#EXTINF:-1 tvg-name="Asia Pop 40" tvg-id="radio.ih.6995" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6995.png" radio="true",Asia Pop 40
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6995
+
+#EXTINF:-1 tvg-name="Bondi Radio" tvg-id="radio.ih.7308" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7308.png" radio="true",Bondi Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7308
+
+#EXTINF:-1 tvg-name="Chemist Warehouse Remix" tvg-id="radio.ih.6178" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6178.png" radio="true",Chemist Warehouse Remix
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6178
+
+#EXTINF:-1 tvg-name="Curtin Radio" tvg-id="radio.curtin.radio" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.curtin.radio.png" radio="true",Curtin Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.curtin.radio
+
+#EXTINF:-1 tvg-name="Double J" tvg-id="radio.ih.7969" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7969.png" radio="true",Double J
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7969
+
+#EXTINF:-1 tvg-name="Double J" tvg-id="radio.double.j" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png" radio="true",Double J
+http://iptv.matthuisman.nz/au/Brisbane/radio.double.j
+
+#EXTINF:-1 tvg-name="Guzman Y Gomez" tvg-id="radio.ih.7260" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png" radio="true",Guzman Y Gomez
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7260.aac
+
+#EXTINF:-1 tvg-name="JOY" tvg-id="radio.ih.7547" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7547.png" radio="true",JOY
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7547
+
+#EXTINF:-1 tvg-name="Kinderling Kids Radio" tvg-id="radio.ih.7922" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7922.png" radio="true",Kinderling Kids Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7922
+
+#EXTINF:-1 tvg-name="Kinderling Kids Radio" tvg-id="radio.ih.7918" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7918.png" radio="true",Kinderling Kids Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7918
+
+#EXTINF:-1 tvg-name="Little Rockers Radio" tvg-id="radio.ih.6970" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6970.png" radio="true",Little Rockers Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6970
+
+#EXTINF:-1 tvg-name="Macquarie Sports Radio 882 AM" tvg-id="radio.ih.6713" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6713.png" radio="true",Macquarie Sports Radio 882 AM
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6713
+
+#EXTINF:-1 tvg-name="RN" tvg-id="radio.ih.7111" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7111.png" radio="true",RN
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7111
+
+#EXTINF:-1 tvg-name="Radio Australia" tvg-id="radio.ih.8005" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.8005.png" radio="true",Radio Australia
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.8005
+
+#EXTINF:-1 tvg-name="Radio Dead" tvg-id="radio.ih.7415" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7415.png" radio="true",Radio Dead
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7415
+
+#EXTINF:-1 tvg-name="SBS Arabic24" tvg-id="radio.ih.7030" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7030.png" radio="true",SBS Arabic24
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7030
+
+#EXTINF:-1 tvg-name="SBS Chill" tvg-id="radio.ih.7029" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7029.png" radio="true",SBS Chill
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7029
+
+#EXTINF:-1 tvg-name="SBS PopAsia" tvg-id="radio.ih.7028" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7028.png" radio="true",SBS PopAsia
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7028
+
+#EXTINF:-1 tvg-name="SBS PopDesi" tvg-id="radio.ih.7031" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7031.png" radio="true",SBS PopDesi
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7031
+
+#EXTINF:-1 tvg-name="SBS Radio 1" tvg-id="radio.ih.6998" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6998.png" radio="true",SBS Radio 1
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6998
+
+#EXTINF:-1 tvg-name="SBS Radio 2" tvg-id="radio.ih.7025" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7025.png" radio="true",SBS Radio 2
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7025
+
+#EXTINF:-1 tvg-name="SBS Radio 3" tvg-id="radio.ih.7026" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7026.png" radio="true",SBS Radio 3
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7026
+
+#EXTINF:-1 tvg-name="Sydney Gay Lesbian Mardi Gras" tvg-id="radio.ih.7293" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7293.png" radio="true",Sydney Gay Lesbian Mardi Gras
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7293
+
+#EXTINF:-1 tvg-name="The 80s iHeartRadio" tvg-id="radio.ih.6794" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6794.png" radio="true",The 80s iHeartRadio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6794
+
+#EXTINF:-1 tvg-name="The 90s iHeartRadio" tvg-id="radio.ih.6793" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6793.png" radio="true",The 90s iHeartRadio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6793
+
+#EXTINF:-1 tvg-name="The Edge Digital" tvg-id="radio.ih.6180" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6180.png" radio="true",The Edge Digital
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6180
+
+#EXTINF:-1 tvg-name="The Faction Radio" tvg-id="radio.ih.7419" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7419.png" radio="true",The Faction Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7419
+
+#EXTINF:-1 tvg-name="Vibe Machine Radio" tvg-id="radio.ih.8137" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.8137.png" radio="true",Vibe Machine Radio
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.8137
+
+#EXTINF:-1 tvg-name="iHeartAustralia" tvg-id="radio.ih.7050" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7050.png" radio="true",iHeartAustralia
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7050
+
+#EXTINF:-1 tvg-name="iHeartCountry Australia" tvg-id="radio.ih.7222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7222.png" radio="true",iHeartCountry Australia
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7222
+
+#EXTINF:-1 tvg-name="iHeartRadio Countdown AUS" tvg-id="radio.ih.6902" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6902.png" radio="true",iHeartRadio Countdown AUS
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6902
+
+#EXTINF:-1 tvg-name="iHeartRadio Dance" tvg-id="radio.ih.6941" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6941.png" radio="true",iHeartRadio Dance
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6941
+
+#EXTINF:-1 tvg-name="iHeartRadio Old Skool" tvg-id="radio.ih.6996" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6996.png" radio="true",iHeartRadio Old Skool
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.6996
+
+#EXTINF:-1 tvg-name="iHeartYou" tvg-id="radio.ih.7075" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7075.png" radio="true",iHeartYou
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7075
+
+#EXTINF:-1 tvg-name="triplej" tvg-id="radio.ih.7973" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7973.png" radio="true",triplej
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7973
+
+#EXTINF:-1 tvg-name="triplej" tvg-id="radio.ih.7115" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7115.png" radio="true",triplej
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7115
+
+#EXTINF:-1 tvg-name="triplej Unearthed" tvg-id="radio.ih.7116" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7116.png" radio="true",triplej Unearthed
+http://iptv.matthuisman.nz/au/Brisbane/radio.ih.7116

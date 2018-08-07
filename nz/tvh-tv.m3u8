@@ -1,0 +1,46 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nz/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.9.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.9 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",TVNZ 2
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.10.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.10 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Three" tvg-id="tv.11" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",Three
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.11.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.11 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Bravo" tvg-id="tv.12" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",Bravo
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.12.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.12 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Māori Television" tvg-id="tv.13" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.13.png",Māori Television
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.13.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.13 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ThreeLife" tvg-id="tv.65" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",ThreeLife
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.65.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.65 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="DUKE" tvg-id="tv.55" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",DUKE
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.55.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.55 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="The Edge TV" tvg-id="tv.51" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",The Edge TV
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.51.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.51 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Te Reo" tvg-id="tv.20" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.20.png",Te Reo
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.20.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.20 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al Jazeera
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.46.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.46 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="TVSN Shopping" tvg-id="tv.45" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",TVSN Shopping
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.45.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.45 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Firstlight" tvg-id="tv.39" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.39.png",Firstlight
+pipe://ffmpeg -loglevel fatal -i rtmp://streamer1.streamhost.org/salive/GMIFLNL -vcodec copy -acodec copy -metadata service_name=tv.39 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Parliament TV" tvg-id="tv.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",Parliament TV
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.18.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.18 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="tv.60" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",Wairarapa TV
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.60.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.60 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Redbull TV" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.redbull.tv -f mpegts pipe:1

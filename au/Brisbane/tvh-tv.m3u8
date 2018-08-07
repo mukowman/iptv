@@ -1,0 +1,70 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/au/Brisbane/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="7TWO" tvg-id="tv.101305040542" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305040542.png",7TWO
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101305040542.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305040542 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="7flix" tvg-id="tv.101305040545" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305040545.png",7flix
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101305040545.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305040545 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="7mate" tvg-id="tv.101305040543" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305040543.png",7mate
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101305040543.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305040543 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="9Gem" tvg-id="tv.10120400040A" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.10120400040A.png",9Gem
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.10120400040A.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.10120400040A -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="9Go!" tvg-id="tv.10120400040B" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.10120400040B.png",9Go!
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.10120400040B.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.10120400040B -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="9Life" tvg-id="tv.101204000407" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204000407.png",9Life
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101204000407.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204000407 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="tv.101002410241" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002410241.png",ABC
+pipe://ffmpeg -loglevel fatal -headers User-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101002410241.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101002410241 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC Comedy" tvg-id="tv.abc2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abc2.png",ABC Comedy
+pipe://ffmpeg -loglevel fatal -headers User-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.abc2.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.abc2 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC KIDS" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abckids.png",ABC KIDS
+pipe://ffmpeg -loglevel fatal -headers User-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101002210222.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101002210222 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC ME" tvg-id="tv.101002210224" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",ABC ME
+pipe://ffmpeg -loglevel fatal -headers User-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101002210224.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101002210224 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="tv.101002210220" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",ABC NEWS
+pipe://ffmpeg -loglevel fatal -headers User-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101002210220.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101002210220 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-id="tv.101204000401" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204000401.png",Channel 9
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101204000401.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204000401 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ELEVEN" tvg-id="tv.101406040648" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406040648.png",ELEVEN
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101406040648.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406040648 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Food Network" tvg-id="tv.320203000304" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",Food Network
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.320203000304.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000304 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Fox Sports News" tvg-id="tv.fox.sports.news" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",Fox Sports News
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.fox.sports.news.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.fox.sports.news -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="NITV" tvg-id="tv.320203000305" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",NITV
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.320203000305.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000305 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ONE" tvg-id="tv.101406040641" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406040641.png",ONE
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101406040641.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406040641 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="RACING.COM" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",RACING.COM
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101305020528.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020528 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Redbull TV" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png",Redbull TV
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.redbull.tv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.redbull.tv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS" tvg-id="tv.320203000301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",SBS
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.320203000301.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000301 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="SBS VICELAND" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.320203000302.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000302 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Seven" tvg-id="tv.101305040540" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305040540.png",Seven
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101305040540.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305040540 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="TEN" tvg-id="tv.101406040645" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406040645.png",TEN
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101406040645.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406040645 -f mpegts pipe:1

@@ -1,0 +1,361 @@
+{
+    "tv.9": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",
+        "channel": 1,
+        "name": "TVNZ 1",
+        "description": "New Zealand's leading producer of local entertainment programmes, news and current affairs, and national television events",
+        "video": {
+            "height": 720,
+            "codec": "h264",
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 48000
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.9/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.9.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.10": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",
+        "channel": 2,
+        "name": "TVNZ 2",
+        "description": "TVNZ 2 brings you the best entertainment from New Zealand and the rest of the world, with a strong line up of the world's most engaging dramas, comedy and reality programmes",
+        "video": {
+            "height": 720,
+            "codec": "h264",
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 48000
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.10/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.10.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.11": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",
+        "channel": 3,
+        "name": "Three",
+        "description": "Three is the one-stop shop for entertainment, broadcasting some of the most-loved international and New Zealand drama, top-rating news and current affairs and has firmly established itself as the home of local comedy",
+        "video": {
+            "height": 480,
+            "codec": "h264",
+            "width": 854
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.11/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.11.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.12": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",
+        "channel": 4,
+        "name": "Bravo",
+        "description": "Bravo is Life. Lived Large! New Zealand's newest TV channel delivering high-quality original unscripted programming",
+        "video": {
+            "height": 480,
+            "codec": "h264",
+            "width": 852
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.12/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.12.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.13": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.13.png",
+        "channel": 5,
+        "name": "Māori Television",
+        "description": "Māori Television specialises in the stories of Aotearoa - most of the programmes are locally made. There is a broad range of of entertaining programmes to choose from including news, currant affairs, sports, drama, documentaries and much more. From 8pm to 11pm, all the shows are in English or subtitled so there is plenty for everyone to watch.",
+        "video": {
+            "height": 720,
+            "codec": "h264",
+            "width": 1280
+        },
+        "audio": {
+            "sample_rate": 32000,
+            "channels": 2,
+            "codec": "aac"
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.13/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.13.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.65": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",
+        "channel": 11,
+        "name": "ThreeLife",
+        "description": "Launched Sunday 15 April, ThreeLife is a lifestyle focused channel from the MediaWorks family which takes you to a “lighter place”. Each night on the channel is themed, from food to DIY, the line-up will feature shows such as Restaurant Revolution and the US version of the smash hit format Married At First Sight.Check out the channel promo here to find out more, or just tune into channel 11.",
+        "video": {
+            "height": 480,
+            "codec": "h264",
+            "width": 854
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.65/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.65.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.55": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",
+        "channel": 13,
+        "name": "DUKE",
+        "description": "Get game, laugh it up, watch real life, get hooked on a top drama or go big with a movie",
+        "video": {
+            "height": 720,
+            "codec": "h264",
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 48000
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.55/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.55.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.55.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.51": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",
+        "channel": 14,
+        "name": "The Edge TV",
+        "description": "The Edge TV plays the hottest music videos in the world right now",
+        "video": {
+            "height": 480,
+            "codec": "h264",
+            "width": 854
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.51/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.51.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.20": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.20.png",
+        "channel": 15,
+        "name": "Te Reo",
+        "description": "Te Reo channel is a immersion experience for fluent speakers of Māori and those learning the language - there are no subtitles. Uniquely Māori entertainment and a strongly Māori world view.",
+        "video": {
+            "height": 720,
+            "codec": "h264",
+            "width": 1280
+        },
+        "audio": {
+            "sample_rate": 32000,
+            "channels": 2,
+            "codec": "aac"
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.20/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.20.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.20.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.46": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",
+        "channel": 16,
+        "name": "Al Jazeera",
+        "description": "Al Jazeera English is international 24hour news and current affairs that takes viewers inside the stories surrounding global news",
+        "video": {
+            "height": 720,
+            "codec": "h264",
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.46/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.46.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.45": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",
+        "channel": 20,
+        "name": "TVSN Shopping",
+        "description": "It's your department store, right in the comfort of your own home",
+        "video": {
+            "height": 360,
+            "codec": "h264",
+            "width": 640
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 32000
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.45/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.45.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.45.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.39": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.39.png",
+        "channel": 26,
+        "name": "Firstlight",
+        "description": "Firstlight presents content from selected Christian ministries around the world",
+        "video": {
+            "height": 400,
+            "codec": "h264",
+            "width": 708
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "rtmp://streamer1.streamhost.org/salive/GMIFLNL",
+        "mjh_sub": "rtmp://streamer1.streamhost.org/salive/GMIFLNL",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "rtmp://streamer1.streamhost.org/salive/GMIFLNL"
+    },
+    "tv.18": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",
+        "channel": 31,
+        "name": "Parliament TV",
+        "description": "Broadcasts the full unedited proceedings of Parliament",
+        "video": {
+            "height": 576,
+            "codec": "h264",
+            "width": 1024
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.18/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.18.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.60": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",
+        "channel": 41,
+        "name": "Wairarapa TV",
+        "description": "Promoting local tourism attractions, local content including amazing international and sporting events held in the Wairarapa Valley region",
+        "video": {
+            "height": 540,
+            "codec": "h264",
+            "width": 960
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 44100
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.60/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.60.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.redbull.tv": {
+        "name": "Redbull TV",
+        "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",
+        "video": {
+            "height": 720,
+            "codec": "h264",
+            "width": 1280
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": 48000
+        },
+        "mjh_master": "http://iptv.matthuisman.nz/nz/tv.redbull.tv/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8",
+        "headers": {
+            "X-Forwarded-For": "202.89.4.222",
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)"
+        },
+        "url": "http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    }
+}

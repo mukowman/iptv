@@ -1,0 +1,109 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nzau/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
+https://d2vbukhvwwnst7.cloudfront.net/master_5.m3u8
+
+#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",TVNZ 2
+https://ditqhbg3dqptg.cloudfront.net/master_5.m3u8
+
+#EXTINF:-1 tvg-name="Three" tvg-id="tv.11" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",Three
+https://livestreamdirect-three.mediaworks.nz/three-2000.m3u8
+
+#EXTINF:-1 tvg-name="Bravo" tvg-id="tv.12" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",Bravo
+https://livestreamdirect-bravo.mediaworks.nz/bravo-1500.m3u8
+
+#EXTINF:-1 tvg-name="Māori Television" tvg-id="tv.13" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.13.png",Māori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad720p.m3u8
+
+#EXTINF:-1 tvg-name="ThreeLife" tvg-id="tv.65" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",ThreeLife
+https://livestreamdirect-threelife.mediaworks.nz/threelife_2000.m3u8
+
+#EXTINF:-1 tvg-name="DUKE" tvg-id="tv.55" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",DUKE
+https://du7f1mbeu4v4z.cloudfront.net/master_5.m3u8
+
+#EXTINF:-1 tvg-name="The Edge TV" tvg-id="tv.51" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",The Edge TV
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv_1500.m3u8
+
+#EXTINF:-1 tvg-name="Te Reo" tvg-id="tv.20" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.20.png",Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad720p.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al Jazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+
+#EXTINF:-1 tvg-name="TVSN Shopping" tvg-id="tv.45" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",TVSN Shopping
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+#EXTINF:-1 tvg-name="Firstlight" tvg-id="tv.39" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.39.png",Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+
+#EXTINF:-1 tvg-name="Parliament TV" tvg-id="tv.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",Parliament TV
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio_96.m3u8?m=1542331772
+
+#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="tv.60" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",Wairarapa TV
+https://stream.wairarapatv.co.nz/WiFi_High/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Redbull TV" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-name="7TWO" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
+https://live-sevennetwork.akamaized.net/hls/live/573746/SYD2/master_1250.m3u8
+
+#EXTINF:-1 tvg-name="7flix" tvg-id="tv.101305020525" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020525.png",7flix
+https://live-sevennetwork.akamaized.net/hls/live/573748/SYD6/master_1000.m3u8
+
+#EXTINF:-1 tvg-name="7mate" tvg-id="tv.101305020523" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020523.png",7mate
+https://live-sevennetwork.akamaized.net/hls/live/573747/SYD3/master_1250.m3u8
+
+#EXTINF:-1 tvg-name="9Gem" tvg-id="tv.101204200427" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200427.png",9Gem
+https://9now-live.akamaized.net/hls/live/704980/gem-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="9Go!" tvg-id="tv.101204200428" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200428.png",9Go!
+https://9now-live.akamaized.net/hls/live/708938/go-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="9Life" tvg-id="tv.101204200424" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200424.png",9Life
+https://9now-live.akamaized.net/hls/live/708945/life-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="tv.101002210221" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210221.png",ABC
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4f16fd0d74ca4bfd93ed043330b0c010/index_1.m3u8?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56&?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56
+
+#EXTINF:-1 tvg-name="ABC Comedy" tvg-id="tv.abc2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abc2.png",ABC Comedy
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index_1.m3u8?hdnea=st=1543230374~exp=1543237574~acl=/*~hmac=8e50b1055a66ee8f95e639b1f61796f060d280a7a1329f425f127875bf3979b1&?hdnea=st=1543230374~exp=1543237574~acl=/*~hmac=8e50b1055a66ee8f95e639b1f61796f060d280a7a1329f425f127875bf3979b1
+
+#EXTINF:-1 tvg-name="ABC KIDS" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abckids.png",ABC KIDS
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/3f2f0885d12e48c8b46683f31e4fd896/index_1.m3u8?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56&?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56
+
+#EXTINF:-1 tvg-name="ABC ME" tvg-id="tv.101002210224" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",ABC ME
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index_1.m3u8?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56&?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="tv.101002210220" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",ABC NEWS
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/6ee5066dcc704c47a663eaf854562e8e/index_1.m3u8?hdnea=st=1543230364~exp=1543237564~acl=/*~hmac=1276e105cef6e2b02a158b446cef873a747ba47929da4a2b334dc3b54992c745&?hdnea=st=1543230364~exp=1543237564~acl=/*~hmac=1276e105cef6e2b02a158b446cef873a747ba47929da4a2b334dc3b54992c745
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-id="tv.101204200421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png",Channel 9
+https://9now-live.akamaized.net/hls/live/708951/ch9-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-id="tv.320203000304" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",Food Network
+http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="Fox Sports News" tvg-id="tv.fox.sports.news" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",Fox Sports News
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4625_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-name="NITV" tvg-id="tv.320203000305" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",NITV
+http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="ONE" tvg-id="tv.101406020621" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020621.png",ONE
+http://yospace-cdn.networkten.com.au/video/oneten/masterstream1.m3u8
+
+#EXTINF:-1 tvg-name="RACING.COM" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",RACING.COM
+https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master_1000.m3u8
+
+#EXTINF:-1 tvg-name="SBS" tvg-id="tv.320203000301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",SBS
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="SBS VICELAND" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="Seven" tvg-id="tv.101305020520" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png",Seven
+https://live-sevennetwork.akamaized.net/hls/live/573745/SYD1/master_1250.m3u8
+
+#EXTINF:-1 tvg-name="TEN" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
+https://networktensecure-a.akamaihd.net/video/sdten/masterstream1.m3u8

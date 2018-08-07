@@ -1,0 +1,574 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nzau/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
+https://d2vbukhvwwnst7.cloudfront.net/master_5.m3u8
+
+#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",TVNZ 2
+https://ditqhbg3dqptg.cloudfront.net/master_5.m3u8
+
+#EXTINF:-1 tvg-name="Three" tvg-id="tv.11" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",Three
+https://livestreamdirect-three.mediaworks.nz/three-2000.m3u8
+
+#EXTINF:-1 tvg-name="Bravo" tvg-id="tv.12" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",Bravo
+https://livestreamdirect-bravo.mediaworks.nz/bravo-1500.m3u8
+
+#EXTINF:-1 tvg-name="Māori Television" tvg-id="tv.13" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.13.png",Māori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad720p.m3u8
+
+#EXTINF:-1 tvg-name="ThreeLife" tvg-id="tv.65" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",ThreeLife
+https://livestreamdirect-threelife.mediaworks.nz/threelife_2000.m3u8
+
+#EXTINF:-1 tvg-name="DUKE" tvg-id="tv.55" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",DUKE
+https://du7f1mbeu4v4z.cloudfront.net/master_5.m3u8
+
+#EXTINF:-1 tvg-name="The Edge TV" tvg-id="tv.51" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",The Edge TV
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv_1500.m3u8
+
+#EXTINF:-1 tvg-name="Te Reo" tvg-id="tv.20" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.20.png",Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad720p.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al Jazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+
+#EXTINF:-1 tvg-name="TVSN Shopping" tvg-id="tv.45" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",TVSN Shopping
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+#EXTINF:-1 tvg-name="Firstlight" tvg-id="tv.39" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.39.png",Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+
+#EXTINF:-1 tvg-name="Parliament TV" tvg-id="tv.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",Parliament TV
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio_96.m3u8?m=1542331772
+
+#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="tv.60" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",Wairarapa TV
+https://stream.wairarapatv.co.nz/WiFi_High/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Redbull TV" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-name="The Rock" tvg-id="radio.or.1" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png" radio="true",The Rock
+http://livestream.mediaworks.nz/radio_origin/rock_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="More FM" tvg-id="radio.or.2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.2.png" radio="true",More FM
+http://livestream.mediaworks.nz/radio_origin/more_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Mai FM" tvg-id="radio.or.3" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.3.png" radio="true",Mai FM
+http://livestream.mediaworks.nz/radio_origin/maifm_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="The Breeze" tvg-id="radio.or.4" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.4.png" radio="true",The Breeze
+http://livestream.mediaworks.nz/radio_origin/breeze_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="The Sound" tvg-id="radio.or.5" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.5.png" radio="true",The Sound
+http://livestream.mediaworks.nz/radio_origin/sound_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="George FM" tvg-id="radio.or.6" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.6.png" radio="true",George FM
+http://livestream.mediaworks.nz/radio_origin/george_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Live" tvg-id="radio.or.7" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.7.png" radio="true",Radio Live
+http://livestream.mediaworks.nz/radio_origin/radiolive_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="The Edge" tvg-id="radio.or.8" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.8.png" radio="true",The Edge
+http://livestream.mediaworks.nz/radio_origin/edge_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="RDU" tvg-id="radio.or.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.9.png" radio="true",RDU
+http://live.outcastdigital.com:8000/rdu
+
+#EXTINF:-1 tvg-name="The Cheese" tvg-id="radio.or.11" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.11.png" radio="true",The Cheese
+http://thecheese.ddns.net:8000
+
+#EXTINF:-1 tvg-name="Radio Active" tvg-id="radio.or.12" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.12.png" radio="true",Radio Active
+http://stream.radioactive.fm:8000/ractive
+
+#EXTINF:-1 tvg-name="Radio Control" tvg-id="radio.or.13" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.13.png" radio="true",Radio Control
+http://ice1.outcastdigital.com:8000/radiocontrol
+
+#EXTINF:-1 tvg-name="Magic" tvg-id="radio.or.14" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.14.png" radio="true",Magic
+http://livestream.mediaworks.nz/radio_origin/magic_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Waatea" tvg-id="radio.or.15" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.15.png" radio="true",Radio Waatea
+http://apple.irirangi.net:8000/I_Waatea.aac
+
+#EXTINF:-1 tvg-name="Triple X FM" tvg-id="radio.or.16" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.16.png" radio="true",Triple X FM
+http://s28.myradiostream.com:20738/;listen.mp3
+
+#EXTINF:-1 tvg-name="Brian FM Ashburton" tvg-id="radio.or.17" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.17.png" radio="true",Brian FM Ashburton
+http://s40.myradiostream.com:10106/;?
+
+#EXTINF:-1 tvg-name="Radio X" tvg-id="radio.or.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.18.png" radio="true",Radio X
+http://18193.live.streamtheworld.com/SAM02AAC65
+
+#EXTINF:-1 tvg-name="The Lounge" tvg-id="radio.ih.7265" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7265.png" radio="true",The Lounge
+http://ais-nzme.streamguys1.com/nz_000_aac
+
+#EXTINF:-1 tvg-name="The Hits Coromandel" tvg-id="radio.ih.7755" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7755.png" radio="true",The Hits Coromandel
+http://ais-nzme.streamguys1.com/nz_049_aac
+
+#EXTINF:-1 tvg-name="The Hits Dunedin" tvg-id="radio.ih.6203" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6203.png" radio="true",The Hits Dunedin
+http://ais-nzme.streamguys1.com/nz_014_aac
+
+#EXTINF:-1 tvg-name="The Hits Hawkes Bay" tvg-id="radio.ih.6204" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6204.png" radio="true",The Hits Hawkes Bay
+http://ais-nzme.streamguys1.com/nz_017_aac
+
+#EXTINF:-1 tvg-name="The Hits Manawatu" tvg-id="radio.ih.6205" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6205.png" radio="true",The Hits Manawatu
+http://ais-nzme.streamguys1.com/nz_019_aac
+
+#EXTINF:-1 tvg-name="The Hits Nelson" tvg-id="radio.ih.6206" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6206.png" radio="true",The Hits Nelson
+http://ais-nzme.streamguys1.com/nz_020_aac
+
+#EXTINF:-1 tvg-name="The Hits Northland" tvg-id="radio.ih.6207" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6207.png" radio="true",The Hits Northland
+http://ais-nzme.streamguys1.com/nz_021_aac
+
+#EXTINF:-1 tvg-name="The Hits Southland" tvg-id="radio.ih.6209" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6209.png" radio="true",The Hits Southland
+http://ais-nzme.streamguys1.com/nz_018_aac
+
+#EXTINF:-1 tvg-name="The Hits Taranaki" tvg-id="radio.ih.6210" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6210.png" radio="true",The Hits Taranaki
+http://ais-nzme.streamguys1.com/nz_024_aac
+
+#EXTINF:-1 tvg-name="The Hits Waikato" tvg-id="radio.ih.6211" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6211.png" radio="true",The Hits Waikato
+http://ais-nzme.streamguys1.com/nz_027_aac
+
+#EXTINF:-1 tvg-name="The Hits Gisborne" tvg-id="radio.ih.6212" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6212.png" radio="true",The Hits Gisborne
+http://ais-nzme.streamguys1.com/nz_015_aac
+
+#EXTINF:-1 tvg-name="The Hits Wanganui" tvg-id="radio.ih.6213" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6213.png" radio="true",The Hits Wanganui
+http://ais-nzme.streamguys1.com/nz_028_aac
+
+#EXTINF:-1 tvg-name="The Hits Timaru" tvg-id="radio.ih.6216" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6216.png" radio="true",The Hits Timaru
+http://ais-nzme.streamguys1.com/nz_026_aac
+
+#EXTINF:-1 tvg-name="The Hits West Coast" tvg-id="radio.ih.6217" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6217.png" radio="true",The Hits West Coast
+http://ais-nzme.streamguys1.com/nz_016_aac
+
+#EXTINF:-1 tvg-name="The Hits Southern Lakes" tvg-id="radio.ih.6897" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6897.png" radio="true",The Hits Southern Lakes
+http://ais-nzme.streamguys1.com/nz_023_aac
+
+#EXTINF:-1 tvg-name="TE PATU MANAWA" tvg-id="radio.ih.7820" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7820.png" radio="true",TE PATU MANAWA
+http://ais-nzme.streamguys1.com/nz_124_aac
+
+#EXTINF:-1 tvg-name="Real Radio" tvg-id="radio.ih.7782" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7782.png" radio="true",Real Radio
+http://ais-nzme.streamguys1.com/nz_119_aac
+
+#EXTINF:-1 tvg-name="The Hits Auckland" tvg-id="radio.ih.6197" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6197.png" radio="true",The Hits Auckland
+http://ais-nzme.streamguys1.com/nz_005_aac
+
+#EXTINF:-1 tvg-name="Newstalk ZB Wellington" tvg-id="radio.ih.6188" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6188.png" radio="true",Newstalk ZB Wellington
+http://ais-nzme.streamguys1.com/nz_004_aac
+
+#EXTINF:-1 tvg-name="Newstalk ZB" tvg-id="radio.ih.6187" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6187.png" radio="true",Newstalk ZB
+http://ais-nzme.streamguys1.com/nz_002_aac
+
+#EXTINF:-1 tvg-name="Roy FM" tvg-id="radio.ih.7301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7301.png" radio="true",Roy FM
+http://ais-nzme.streamguys1.com/nz_121_aac
+
+#EXTINF:-1 tvg-name="1 Double X" tvg-id="radio.ih.7317" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7317.png" radio="true",1 Double X
+http://ais-nzme.streamguys1.com/nz_101_aac
+
+#EXTINF:-1 tvg-name="BAYROCK" tvg-id="radio.ih.7944" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7944.png" radio="true",BAYROCK
+http://ais-nzme.streamguys1.com/nz_103_aac
+
+#EXTINF:-1 tvg-name="Q97" tvg-id="radio.ih.7945" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7945.png" radio="true",Q97
+http://ais-nzme.streamguys1.com/nz_128_aac
+
+#EXTINF:-1 tvg-name="The Hits Bay of Plenty" tvg-id="radio.ih.6202" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6202.png" radio="true",The Hits Bay of Plenty
+http://ais-nzme.streamguys1.com/nz_025_aac
+
+#EXTINF:-1 tvg-name="The Hits Rotorua" tvg-id="radio.ih.6208" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6208.png" radio="true",The Hits Rotorua
+http://ais-nzme.streamguys1.com/nz_022_aac
+
+#EXTINF:-1 tvg-name="The Heat" tvg-id="radio.ih.7946" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7946.png" radio="true",The Heat
+http://ais-nzme.streamguys1.com/nz_129_aac
+
+#EXTINF:-1 tvg-name="The Hits Wellington" tvg-id="radio.ih.6198" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6198.png" radio="true",The Hits Wellington
+http://ais-nzme.streamguys1.com/nz_007_aac
+
+#EXTINF:-1 tvg-name="Humm FM" tvg-id="radio.ih.7633" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7633.png" radio="true",Humm FM
+http://ais-nzme.streamguys1.com/nz_107_aac
+
+#EXTINF:-1 tvg-name="Our Lounge" tvg-id="radio.ih.7814" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7814.png" radio="true",Our Lounge
+http://ais-nzme.streamguys1.com/nz_053_aac
+
+#EXTINF:-1 tvg-name="Hokonui" tvg-id="radio.ih.6196" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6196.png" radio="true",Hokonui
+http://ais-nzme.streamguys1.com/nz_013_aac
+
+#EXTINF:-1 tvg-name="Hokonui" tvg-id="radio.ih.7799" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7799.png" radio="true",Hokonui
+http://ais-nzme.streamguys1.com/nz_046_aac
+
+#EXTINF:-1 tvg-name="Hokonui" tvg-id="radio.ih.8011" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.8011.png" radio="true",Hokonui
+http://ais-nzme.streamguys1.com/nz_054_aac
+
+#EXTINF:-1 tvg-name="Coast" tvg-id="radio.ih.6193" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6193.png" radio="true",Coast
+http://ais-nzme.streamguys1.com/nz_011_aac
+
+#EXTINF:-1 tvg-name="Newstalk ZB Christchurch" tvg-id="radio.ih.6189" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6189.png" radio="true",Newstalk ZB Christchurch
+http://ais-nzme.streamguys1.com/nz_003_aac
+
+#EXTINF:-1 tvg-name="Alternative Comntry Collective" tvg-id="radio.ih.6693" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6693.png" radio="true",Alternative Comntry Collective
+http://ais-nzme.streamguys1.com/nz_031_aac
+
+#EXTINF:-1 tvg-name="ZM" tvg-id="radio.ih.6190" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6190.png" radio="true",ZM
+http://ais-nzme.streamguys1.com/nz_008_aac
+
+#EXTINF:-1 tvg-name="Mix" tvg-id="radio.ih.7168" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7168.png" radio="true",Mix
+http://ais-nzme.streamguys1.com/nz_012_aac
+
+#EXTINF:-1 tvg-name="Flava" tvg-id="radio.ih.6159" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6159.png" radio="true",Flava
+http://ais-nzme.streamguys1.com/nz_010_aac
+
+#EXTINF:-1 tvg-name="The Wireless 90.4FM" tvg-id="radio.ih.7114" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7114.png" radio="true",The Wireless 90.4FM
+http://ais-nzme.streamguys1.com/nz_126_aac
+
+#EXTINF:-1 tvg-name="The Axe Attack" tvg-id="radio.ih.6848" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6848.png" radio="true",The Axe Attack
+http://ais-nzme.streamguys1.com/nz_043_aac
+
+#EXTINF:-1 tvg-name="Heads 106.4FM Mangawhai" tvg-id="radio.ih.7113" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7113.png" radio="true",Heads 106.4FM Mangawhai
+http://ais-nzme.streamguys1.com/nz_106_aac
+
+#EXTINF:-1 tvg-name="ZM Friday Jams" tvg-id="radio.ih.7316" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7316.png" radio="true",ZM Friday Jams
+http://ais-nzme.streamguys1.com/nz_041_aac
+
+#EXTINF:-1 tvg-name="The Country" tvg-id="radio.ih.7159" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7159.png" radio="true",The Country
+http://ais-nzme.streamguys1.com/nz_042_aac
+
+#EXTINF:-1 tvg-name="NZ Top 40" tvg-id="radio.ih.6491" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6491.png" radio="true",NZ Top 40
+http://ais-nzme.streamguys1.com/nz_038_aac
+
+#EXTINF:-1 tvg-name="Radio New Zealand Concert" tvg-id="radio.ih.6867" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6867.png" radio="true",Radio New Zealand Concert
+http://ais-nzme.streamguys1.com/nz_113_aac
+
+#EXTINF:-1 tvg-name="80s Radio" tvg-id="radio.ih.6987" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6987.png" radio="true",80s Radio
+http://ais-nzme.streamguys1.com/nz_029_aac
+
+#EXTINF:-1 tvg-name="Flava Old School" tvg-id="radio.ih.6632" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6632.png" radio="true",Flava Old School
+http://ais-nzme.streamguys1.com/nz_034_aac
+
+#EXTINF:-1 tvg-name="K Radio" tvg-id="radio.ih.7074" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7074.png" radio="true",K Radio
+http://ais-nzme.streamguys1.com/nz_118_aac
+
+#EXTINF:-1 tvg-name="So Pop" tvg-id="radio.ih.7213" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7213.png" radio="true",So Pop
+http://ais-nzme.streamguys1.com/nz_030_aac
+
+#EXTINF:-1 tvg-name="RNZ Pacific" tvg-id="radio.ih.6868" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6868.png" radio="true",RNZ Pacific
+http://ais-nzme.streamguys1.com/nz_114_aac
+
+#EXTINF:-1 tvg-name="Radio New Zealand National" tvg-id="radio.ih.6866" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6866.png" radio="true",Radio New Zealand National
+http://ais-nzme.streamguys1.com/nz_115_aac
+
+#EXTINF:-1 tvg-name="Rhema" tvg-id="radio.ih.6937" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6937.png" radio="true",Rhema
+http://ais-nzme.streamguys1.com/nz_120_aac
+
+#EXTINF:-1 tvg-name="Official NZ Top 20" tvg-id="radio.ih.6373" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6373.png" radio="true",Official NZ Top 20
+http://ais-nzme.streamguys1.com/nz_037_aac
+
+#EXTINF:-1 tvg-name="Radio Wanaka" tvg-id="radio.ih.7300" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7300.png" radio="true",Radio Wanaka
+http://ais-nzme.streamguys1.com/nz_117_aac
+
+#EXTINF:-1 tvg-name="Radio Sport Extra 2" tvg-id="radio.ih.6799" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6799.png" radio="true",Radio Sport Extra 2
+http://ais-nzme.streamguys1.com/nz_052_aac
+
+#EXTINF:-1 tvg-name="Radio Sport" tvg-id="radio.ih.6194" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6194.png" radio="true",Radio Sport
+http://ais-nzme.streamguys1.com/nz_001_aac
+
+#EXTINF:-1 tvg-name="The Hits Christchurch" tvg-id="radio.ih.6199" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6199.png" radio="true",The Hits Christchurch
+http://ais-nzme.streamguys1.com/nz_006_aac
+
+#EXTINF:-1 tvg-name="Coast Classic" tvg-id="radio.ih.7383" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7383.png" radio="true",Coast Classic
+http://ais-nzme.streamguys1.com/nz_036_aac
+
+#EXTINF:-1 tvg-name="Ski FM Network" tvg-id="radio.ih.7156" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7156.png" radio="true",Ski FM Network
+http://ais-nzme.streamguys1.com/nz_122_aac
+
+#EXTINF:-1 tvg-name="The Pulse" tvg-id="radio.ih.6718" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6718.png" radio="true",The Pulse
+http://ais-nzme.streamguys1.com/nz_044_aac
+
+#EXTINF:-1 tvg-name="Southern Star" tvg-id="radio.ih.6939" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6939.png" radio="true",Southern Star
+http://ais-nzme.streamguys1.com/nz_123_aac
+
+#EXTINF:-1 tvg-name="Country Nation " tvg-id="radio.ih.6465" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6465.png" radio="true",Country Nation
+http://ais-nzme.streamguys1.com/nz_040_aac
+
+#EXTINF:-1 tvg-name="Chinese Radio" tvg-id="radio.ih.7073" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7073.png" radio="true",Chinese Radio
+http://ais-nzme.streamguys1.com/nz_105_aac
+
+#EXTINF:-1 tvg-name="NBR Radio" tvg-id="radio.ih.6965" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6965.png" radio="true",NBR Radio
+http://ais-nzme.streamguys1.com/nz_110_aac
+
+#EXTINF:-1 tvg-name="Life FM" tvg-id="radio.ih.6938" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6938.png" radio="true",Life FM
+http://ais-nzme.streamguys1.com/nz_108_aac
+
+#EXTINF:-1 tvg-name="Pride" tvg-id="radio.ih.7302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7302.png" radio="true",Pride
+http://ais-nzme.streamguys1.com/nz_032_aac
+
+#EXTINF:-1 tvg-name="Chinese Voice" tvg-id="radio.ih.7072" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7072.png" radio="true",Chinese Voice
+http://ais-nzme.streamguys1.com/nz_102_aac
+
+#EXTINF:-1 tvg-name="Basement 96.1" tvg-id="radio.ih.7894" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7894.png" radio="true",Basement 96.1
+http://ais-nzme.streamguys1.com/nz_127_aac
+
+#EXTINF:-1 tvg-name="ZM DMA" tvg-id="radio.ih.6776" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6776.png" radio="true",ZM DMA
+http://ais-nzme.streamguys1.com/nz_045_aac
+
+#EXTINF:-1 tvg-name="Radio Tarana" tvg-id="radio.ih.6676" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6676.png" radio="true",Radio Tarana
+http://ais-nzme.streamguys1.com/nz_116_aac
+
+#EXTINF:-1 tvg-name="Central FM" tvg-id="radio.ih.7391" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7391.png" radio="true",Central FM
+http://ais-nzme.streamguys1.com/nz_104_aac
+
+#EXTINF:-1 tvg-name="Radio Sport Extra " tvg-id="radio.ih.6218" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6218.png" radio="true",Radio Sport Extra
+http://ais-nzme.streamguys1.com/nz_039_aac
+
+#EXTINF:-1 tvg-name="The Station" tvg-id="radio.ih.7429" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7429.png" radio="true",The Station
+http://ais-nzme.streamguys1.com/nz_125_aac
+
+#EXTINF:-1 tvg-name="Pulzar FM" tvg-id="radio.ih.7864" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7864.png" radio="true",Pulzar FM
+http://ais-nzme.streamguys1.com/nz_112_aac
+
+#EXTINF:-1 tvg-name="Lyall Bay School's Maranui FM" tvg-id="radio.ih.7401" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7401.png" radio="true",Lyall Bay School's Maranui FM
+http://ais-nzme.streamguys1.com/nz_109_aac
+
+#EXTINF:-1 tvg-name="Radio Hauraki" tvg-id="radio.ih.6191" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6191.png" radio="true",Radio Hauraki
+http://ais-nzme.streamguys1.com/nz_009_aac
+
+#EXTINF:-1 tvg-name="Hauraki Classic Rock" tvg-id="radio.ih.6374" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6374.png" radio="true",Hauraki Classic Rock
+http://ais-nzme.streamguys1.com/nz_035_aac
+
+#EXTINF:-1 tvg-name="Coast Tauranga/Coromandel" tvg-id="radio.ih.7756" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7756.png" radio="true",Coast Tauranga/Coromandel
+http://ais-nzme.streamguys1.com/nz_048_aac
+
+#EXTINF:-1 tvg-name="More FM Manawatu" tvg-id="radio.or.19" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.19.png" radio="true",More FM Manawatu
+https://livestream.mediaworks.nz/radio_origin/more_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="The Breeze Manawatu" tvg-id="radio.or.20" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.20.png" radio="true",The Breeze Manawatu
+https://livestream.mediaworks.nz/radio_origin/breeze_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="The Edge Manawatu" tvg-id="radio.or.21" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.21.png" radio="true",The Edge Manawatu
+https://livestream.mediaworks.nz/radio_origin/edge_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Mai FM Manawatu" tvg-id="radio.or.22" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.22.png" radio="true",Mai FM Manawatu
+https://livestream.mediaworks.nz/radio_origin/mai_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="The Rock Manawatu" tvg-id="radio.or.23" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.23.png" radio="true",The Rock Manawatu
+https://livestream.mediaworks.nz/radio_origin/rock_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="The Sound Manawatu" tvg-id="radio.or.24" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.24.png" radio="true",The Sound Manawatu
+https://livestream.mediaworks.nz/radio_origin/sound_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="George FM Manawatu" tvg-id="radio.or.25" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.25.png" radio="true",George FM Manawatu
+https://livestream.mediaworks.nz/radio_origin/george_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Magic Manawatu" tvg-id="radio.or.26" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.26.png" radio="true",Magic Manawatu
+https://livestream.mediaworks.nz/radio_origin/magic_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Live Manawatu" tvg-id="radio.or.27" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.27.png" radio="true",Radio Live Manawatu
+https://livestream.mediaworks.nz/radio_origin/live_[PMR]_128kbps/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="7TWO" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
+https://live-sevennetwork.akamaized.net/hls/live/573746/SYD2/master_1250.m3u8
+
+#EXTINF:-1 tvg-name="7flix" tvg-id="tv.101305020525" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020525.png",7flix
+https://live-sevennetwork.akamaized.net/hls/live/573748/SYD6/master_1000.m3u8
+
+#EXTINF:-1 tvg-name="7mate" tvg-id="tv.101305020523" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020523.png",7mate
+https://live-sevennetwork.akamaized.net/hls/live/573747/SYD3/master_1250.m3u8
+
+#EXTINF:-1 tvg-name="9Gem" tvg-id="tv.101204200427" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200427.png",9Gem
+https://9now-live.akamaized.net/hls/live/704980/gem-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="9Go!" tvg-id="tv.101204200428" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200428.png",9Go!
+https://9now-live.akamaized.net/hls/live/708938/go-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="9Life" tvg-id="tv.101204200424" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200424.png",9Life
+https://9now-live.akamaized.net/hls/live/708945/life-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="tv.101002210221" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210221.png",ABC
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4f16fd0d74ca4bfd93ed043330b0c010/index_1.m3u8?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56&?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56
+
+#EXTINF:-1 tvg-name="ABC Comedy" tvg-id="tv.abc2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abc2.png",ABC Comedy
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index_1.m3u8?hdnea=st=1543230374~exp=1543237574~acl=/*~hmac=8e50b1055a66ee8f95e639b1f61796f060d280a7a1329f425f127875bf3979b1&?hdnea=st=1543230374~exp=1543237574~acl=/*~hmac=8e50b1055a66ee8f95e639b1f61796f060d280a7a1329f425f127875bf3979b1
+
+#EXTINF:-1 tvg-name="ABC KIDS" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abckids.png",ABC KIDS
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/3f2f0885d12e48c8b46683f31e4fd896/index_1.m3u8?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56&?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56
+
+#EXTINF:-1 tvg-name="ABC ME" tvg-id="tv.101002210224" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",ABC ME
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index_1.m3u8?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56&?hdnea=st=1543230365~exp=1543237565~acl=/*~hmac=b601fd605f8a547070b45ca9c2d65bdd545586cb6e2527e61843a9c91583da56
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="tv.101002210220" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",ABC NEWS
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/6ee5066dcc704c47a663eaf854562e8e/index_1.m3u8?hdnea=st=1543230364~exp=1543237564~acl=/*~hmac=1276e105cef6e2b02a158b446cef873a747ba47929da4a2b334dc3b54992c745&?hdnea=st=1543230364~exp=1543237564~acl=/*~hmac=1276e105cef6e2b02a158b446cef873a747ba47929da4a2b334dc3b54992c745
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-id="tv.101204200421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png",Channel 9
+https://9now-live.akamaized.net/hls/live/708951/ch9-syd/master1.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-id="tv.320203000304" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",Food Network
+http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="Fox Sports News" tvg-id="tv.fox.sports.news" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",Fox Sports News
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4625_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-name="NITV" tvg-id="tv.320203000305" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",NITV
+http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="ONE" tvg-id="tv.101406020621" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020621.png",ONE
+http://yospace-cdn.networkten.com.au/video/oneten/masterstream1.m3u8
+
+#EXTINF:-1 tvg-name="RACING.COM" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",RACING.COM
+https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master_1000.m3u8
+
+#EXTINF:-1 tvg-name="SBS" tvg-id="tv.320203000301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",SBS
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="SBS VICELAND" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad_8.m3u8?m=1539050143
+
+#EXTINF:-1 tvg-name="Seven" tvg-id="tv.101305020520" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png",Seven
+https://live-sevennetwork.akamaized.net/hls/live/573745/SYD1/master_1250.m3u8
+
+#EXTINF:-1 tvg-name="TEN" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
+https://networktensecure-a.akamaihd.net/video/sdten/masterstream1.m3u8
+
+#EXTINF:-1 tvg-name="101.7 WSFM " tvg-id="radio.ih.6186" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6186.png" radio="true",101.7 WSFM
+http://icy.ihrcast.arn.com.au/au_002_icy
+
+#EXTINF:-1 tvg-name="2CH" tvg-id="radio.ih.7220" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7220.png" radio="true",2CH
+http://abc.ihrcast.arn.com.au/iHr2ch01
+
+#EXTINF:-1 tvg-name="2GB" tvg-id="radio.ih.7221" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7221.png" radio="true",2GB
+http://abc.ihrcast.arn.com.au/iHr2gb01
+
+#EXTINF:-1 tvg-name="ABC Classic 2" tvg-id="radio.ih.7123" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png" radio="true",ABC Classic 2
+http://abc2.ihrcast.arn.com.au/iHRabc08
+
+#EXTINF:-1 tvg-name="ABC Classic FM" tvg-id="radio.ih.7118" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7118.png" radio="true",ABC Classic FM
+http://abc2.ihrcast.arn.com.au/iHRabc07
+
+#EXTINF:-1 tvg-name="ABC Country" tvg-id="radio.ih.7125" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7125.png" radio="true",ABC Country
+http://abc2.ihrcast.arn.com.au/iHRabc10
+
+#EXTINF:-1 tvg-name="ABC Grandstand" tvg-id="radio.ih.7112" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7112.png" radio="true",ABC Grandstand
+http://abc2.ihrcast.arn.com.au/iHRabc03
+
+#EXTINF:-1 tvg-name="ABC Jazz" tvg-id="radio.ih.7124" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7124.png" radio="true",ABC Jazz
+http://abc2.ihrcast.arn.com.au/iHRabc09
+
+#EXTINF:-1 tvg-name="ABC KIDS Listen" tvg-id="radio.ih.7967" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7967.png" radio="true",ABC KIDS Listen
+http://abc.ihrcast.arn.com.au/iHRabc46
+
+#EXTINF:-1 tvg-name="ABC News" tvg-id="radio.ih.7110" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7110.png" radio="true",ABC News
+http://abc2.ihrcast.arn.com.au/iHRabc01
+
+#EXTINF:-1 tvg-name="ABC Radio Sydney" tvg-id="radio.ih.7135" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7135.png" radio="true",ABC Radio Sydney
+http://abc2.ihrcast.arn.com.au/iHRabc20
+
+#EXTINF:-1 tvg-name="AndrewHaug.com Metal Radio" tvg-id="radio.ih.7421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7421.png" radio="true",AndrewHaug.com Metal Radio
+http://abc.ihrcast.arn.com.au/iHRhaugmetal
+
+#EXTINF:-1 tvg-name="Asia Pop 40" tvg-id="radio.ih.6995" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6995.png" radio="true",Asia Pop 40
+http://icy.ihrcast.arn.com.au/au_013_icy
+
+#EXTINF:-1 tvg-name="Bondi Radio" tvg-id="radio.ih.7308" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7308.png" radio="true",Bondi Radio
+http://abc2.ihrcast.arn.com.au/iHRbondifm
+
+#EXTINF:-1 tvg-name="Chemist Warehouse Remix" tvg-id="radio.ih.6178" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6178.png" radio="true",Chemist Warehouse Remix
+http://icy.ihrcast.arn.com.au/au_021_icy
+
+#EXTINF:-1 tvg-name="Curtin Radio" tvg-id="radio.curtin.radio" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.curtin.radio.png" radio="true",Curtin Radio
+http://192.99.17.12:6192/stream/;
+
+#EXTINF:-1 tvg-name="Double J" tvg-id="radio.double.j" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png" radio="true",Double J
+http://live-radio02.mediahubaustralia.com/DJDW/aac/;
+
+#EXTINF:-1 tvg-name="Guzman Y Gomez" tvg-id="radio.ih.7260" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png" radio="true",Guzman Y Gomez
+http://icy.ihrcast.arn.com.au/iHrGuz01.aac
+
+#EXTINF:-1 tvg-name="JOY" tvg-id="radio.ih.7547" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7547.png" radio="true",JOY
+http://abc.ihrcast.arn.com.au/iHRjoyfm
+
+#EXTINF:-1 tvg-name="KIIS 1065" tvg-id="radio.ih.6185" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6185.png" radio="true",KIIS 1065
+http://icy.ihrcast.arn.com.au/au_007_icy
+
+#EXTINF:-1 tvg-name="Kinderling Kids Radio" tvg-id="radio.ih.7918" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7918.png" radio="true",Kinderling Kids Radio
+http://abc.ihrcast.arn.com.au/iHrkknsw01
+
+#EXTINF:-1 tvg-name="Little Rockers Radio" tvg-id="radio.ih.6970" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6970.png" radio="true",Little Rockers Radio
+http://icy.ihrcast.arn.com.au/LRRADIO
+
+#EXTINF:-1 tvg-name="Macquarie Sports Radio Sydney" tvg-id="radio.ih.6709" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6709.png" radio="true",Macquarie Sports Radio Sydney
+http://abc.ihrcast.arn.com.au/iHrSydLife
+
+#EXTINF:-1 tvg-name="RN" tvg-id="radio.ih.7111" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7111.png" radio="true",RN
+http://abc2.ihrcast.arn.com.au/iHRabc02
+
+#EXTINF:-1 tvg-name="Radio Australia" tvg-id="radio.ih.8005" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.8005.png" radio="true",Radio Australia
+http://abc.ihrcast.arn.com.au/iHRabc70
+
+#EXTINF:-1 tvg-name="Radio Dead" tvg-id="radio.ih.7415" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7415.png" radio="true",Radio Dead
+http://abc.ihrcast.arn.com.au/iHRdeadradio
+
+#EXTINF:-1 tvg-name="SBS Arabic24" tvg-id="radio.ih.7030" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7030.png" radio="true",SBS Arabic24
+http://sbs.ihrcast.arn.com.au/sbs-arabic
+
+#EXTINF:-1 tvg-name="SBS Chill" tvg-id="radio.ih.7029" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7029.png" radio="true",SBS Chill
+http://sbs.ihrcast.arn.com.au/sbschill
+
+#EXTINF:-1 tvg-name="SBS PopAsia" tvg-id="radio.ih.7028" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7028.png" radio="true",SBS PopAsia
+http://sbs.ihrcast.arn.com.au/sbs-popasia
+
+#EXTINF:-1 tvg-name="SBS PopDesi" tvg-id="radio.ih.7031" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7031.png" radio="true",SBS PopDesi
+http://sbs.ihrcast.arn.com.au/sbs-popdesi
+
+#EXTINF:-1 tvg-name="SBS Radio 1" tvg-id="radio.ih.6998" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6998.png" radio="true",SBS Radio 1
+http://sbs.ihrcast.arn.com.au/sbs1
+
+#EXTINF:-1 tvg-name="SBS Radio 2" tvg-id="radio.ih.7025" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7025.png" radio="true",SBS Radio 2
+http://sbs.ihrcast.arn.com.au/sbs2
+
+#EXTINF:-1 tvg-name="SBS Radio 3" tvg-id="radio.ih.7026" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7026.png" radio="true",SBS Radio 3
+http://sbs.ihrcast.arn.com.au/sbs3
+
+#EXTINF:-1 tvg-name="SURG" tvg-id="radio.ih.7354" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7354.png" radio="true",SURG
+http://abc.ihrcast.arn.com.au/iHRsurg
+
+#EXTINF:-1 tvg-name="Sydney Gay Lesbian Mardi Gras" tvg-id="radio.ih.7293" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7293.png" radio="true",Sydney Gay Lesbian Mardi Gras
+http://icy.ihrcast.arn.com.au/au_028_icy
+
+#EXTINF:-1 tvg-name="The 80s iHeartRadio" tvg-id="radio.ih.6794" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6794.png" radio="true",The 80s iHeartRadio
+http://icy.ihrcast.arn.com.au/au_022_icy
+
+#EXTINF:-1 tvg-name="The 90s iHeartRadio" tvg-id="radio.ih.6793" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6793.png" radio="true",The 90s iHeartRadio
+http://icy.arn.com.au/au_020_icy
+
+#EXTINF:-1 tvg-name="The Edge" tvg-id="radio.ih.6179" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6179.png" radio="true",The Edge
+http://icy.ihrcast.arn.com.au/au_010_icy
+
+#EXTINF:-1 tvg-name="The Edge Digital" tvg-id="radio.ih.6180" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6180.png" radio="true",The Edge Digital
+http://icy.ihrcast.arn.com.au/au_010_icy
+
+#EXTINF:-1 tvg-name="The Faction Radio" tvg-id="radio.ih.7419" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7419.png" radio="true",The Faction Radio
+http://abc.ihrcast.arn.com.au/iHRfaction
+
+#EXTINF:-1 tvg-name="Triple M Sydney" tvg-id="radio.triple.m.sydney" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.triple.m.sydney.png" radio="true",Triple M Sydney
+http://wz2web.scahw.com.au:80/live/2mmm_32.stream/playlist.m3u8?listeningSessionID=5bf9514a16ca7cfe_164537_vDQZn9RN__00000000pfI&downloadSessionID=0
+
+#EXTINF:-1 tvg-name="Vibe Machine Radio" tvg-id="radio.ih.8137" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.8137.png" radio="true",Vibe Machine Radio
+http://abc.ihrcast.arn.com.au/iHRvibe
+
+#EXTINF:-1 tvg-name="iHeartAustralia" tvg-id="radio.ih.7050" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7050.png" radio="true",iHeartAustralia
+https://icy.ihrcast.arn.com.au/au_018_icy
+
+#EXTINF:-1 tvg-name="iHeartCountry Australia" tvg-id="radio.ih.7222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7222.png" radio="true",iHeartCountry Australia
+http://icy.ihrcast.arn.com.au/au_027_icy
+
+#EXTINF:-1 tvg-name="iHeartRadio Countdown AUS" tvg-id="radio.ih.6902" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6902.png" radio="true",iHeartRadio Countdown AUS
+http://icy.ihrcast.arn.com.au/au_029_icy
+
+#EXTINF:-1 tvg-name="iHeartRadio Dance" tvg-id="radio.ih.6941" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6941.png" radio="true",iHeartRadio Dance
+http://icy.ihrcast.arn.com.au/au_025_icy
+
+#EXTINF:-1 tvg-name="iHeartRadio Old Skool" tvg-id="radio.ih.6996" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6996.png" radio="true",iHeartRadio Old Skool
+http://icy.ihrcast.arn.com.au/au_030_icy
+
+#EXTINF:-1 tvg-name="iHeartYou" tvg-id="radio.ih.7075" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7075.png" radio="true",iHeartYou
+http://icy.ihrcast.arn.com.au/au_014_icy
+
+#EXTINF:-1 tvg-name="triplej" tvg-id="radio.ih.7115" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7115.png" radio="true",triplej
+http://abc2.ihrcast.arn.com.au/iHRabc04
+
+#EXTINF:-1 tvg-name="triplej Unearthed" tvg-id="radio.ih.7116" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7116.png" radio="true",triplej Unearthed
+http://abc2.ihrcast.arn.com.au/iHRabc05

@@ -1,0 +1,67 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/au/Hobart/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="7TWO" tvg-id="tv.101305030532" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305030532.png",7TWO
+http://iptv.matthuisman.nz/au/Hobart/tv.101305030532.m3u8
+
+#EXTINF:-1 tvg-name="7flix" tvg-id="tv.101305030535" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305030535.png",7flix
+http://iptv.matthuisman.nz/au/Hobart/tv.101305030535.m3u8
+
+#EXTINF:-1 tvg-name="7mate" tvg-id="tv.101305030533" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305030533.png",7mate
+http://iptv.matthuisman.nz/au/Hobart/tv.101305030533.m3u8
+
+#EXTINF:-1 tvg-name="9Gem" tvg-id="tv.101204300436" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300436.png",9Gem
+http://iptv.matthuisman.nz/au/Hobart/tv.101204300436.m3u8
+
+#EXTINF:-1 tvg-name="9Go!" tvg-id="tv.101204300437" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300437.png",9Go!
+http://iptv.matthuisman.nz/au/Hobart/tv.101204300437.m3u8
+
+#EXTINF:-1 tvg-name="9Life" tvg-id="tv.101204300433" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300433.png",9Life
+http://iptv.matthuisman.nz/au/Hobart/tv.101204300433.m3u8
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="tv.101002710271" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002710271.png",ABC
+http://iptv.matthuisman.nz/au/Hobart/tv.101002710271.m3u8
+
+#EXTINF:-1 tvg-name="ABC Comedy" tvg-id="tv.abc2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abc2.png",ABC Comedy
+http://iptv.matthuisman.nz/au/Hobart/tv.abc2.m3u8
+
+#EXTINF:-1 tvg-name="ABC KIDS" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abckids.png",ABC KIDS
+http://iptv.matthuisman.nz/au/Hobart/tv.101002210222.m3u8
+
+#EXTINF:-1 tvg-name="ABC ME" tvg-id="tv.101002210224" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",ABC ME
+http://iptv.matthuisman.nz/au/Hobart/tv.101002210224.m3u8
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="tv.101002210220" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",ABC NEWS
+http://iptv.matthuisman.nz/au/Hobart/tv.101002210220.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-id="tv.101204300430" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300430.png",Channel 9
+http://iptv.matthuisman.nz/au/Hobart/tv.101204300430.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-id="tv.320203000304" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",Food Network
+http://iptv.matthuisman.nz/au/Hobart/tv.320203000304.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports News" tvg-id="tv.fox.sports.news" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",Fox Sports News
+http://iptv.matthuisman.nz/au/Hobart/tv.fox.sports.news.m3u8
+
+#EXTINF:-1 tvg-name="NITV" tvg-id="tv.320203000305" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",NITV
+http://iptv.matthuisman.nz/au/Hobart/tv.320203000305.m3u8
+
+#EXTINF:-1 tvg-name="ONE" tvg-id="tv.101406030631" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030631.png",ONE
+http://iptv.matthuisman.nz/au/Hobart/tv.101406030631.m3u8
+
+#EXTINF:-1 tvg-name="RACING.COM" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",RACING.COM
+http://iptv.matthuisman.nz/au/Hobart/tv.101305020528.m3u8
+
+#EXTINF:-1 tvg-name="Redbull TV" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png",Redbull TV
+http://iptv.matthuisman.nz/au/Hobart/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-name="SBS" tvg-id="tv.320203000301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",SBS
+http://iptv.matthuisman.nz/au/Hobart/tv.320203000301.m3u8
+
+#EXTINF:-1 tvg-name="SBS VICELAND" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
+http://iptv.matthuisman.nz/au/Hobart/tv.320203000302.m3u8
+
+#EXTINF:-1 tvg-name="Seven" tvg-id="tv.101305030530" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305030530.png",Seven
+http://iptv.matthuisman.nz/au/Hobart/tv.101305030530.m3u8
+
+#EXTINF:-1 tvg-name="TEN" tvg-id="tv.101406030635" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406030635.png",TEN
+http://iptv.matthuisman.nz/au/Hobart/tv.101406030635.m3u8

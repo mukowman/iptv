@@ -1,0 +1,109 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nzau/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
+http://iptv.matthuisman.nz/nz/tv.9.m3u8
+
+#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",TVNZ 2
+http://iptv.matthuisman.nz/nz/tv.10.m3u8
+
+#EXTINF:-1 tvg-name="Three" tvg-id="tv.11" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",Three
+http://iptv.matthuisman.nz/nz/tv.11.m3u8
+
+#EXTINF:-1 tvg-name="Bravo" tvg-id="tv.12" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",Bravo
+http://iptv.matthuisman.nz/nz/tv.12.m3u8
+
+#EXTINF:-1 tvg-name="Māori Television" tvg-id="tv.13" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.13.png",Māori Television
+http://iptv.matthuisman.nz/nz/tv.13.m3u8
+
+#EXTINF:-1 tvg-name="ThreeLife" tvg-id="tv.65" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.65.png",ThreeLife
+http://iptv.matthuisman.nz/nz/tv.65.m3u8
+
+#EXTINF:-1 tvg-name="DUKE" tvg-id="tv.55" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",DUKE
+http://iptv.matthuisman.nz/nz/tv.55.m3u8
+
+#EXTINF:-1 tvg-name="The Edge TV" tvg-id="tv.51" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",The Edge TV
+http://iptv.matthuisman.nz/nz/tv.51.m3u8
+
+#EXTINF:-1 tvg-name="Te Reo" tvg-id="tv.20" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.20.png",Te Reo
+http://iptv.matthuisman.nz/nz/tv.20.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al Jazeera
+http://iptv.matthuisman.nz/nz/tv.46.m3u8
+
+#EXTINF:-1 tvg-name="TVSN Shopping" tvg-id="tv.45" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",TVSN Shopping
+http://iptv.matthuisman.nz/nz/tv.45.m3u8
+
+#EXTINF:-1 tvg-name="Firstlight" tvg-id="tv.39" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.39.png",Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+
+#EXTINF:-1 tvg-name="Parliament TV" tvg-id="tv.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",Parliament TV
+http://iptv.matthuisman.nz/nz/tv.18.m3u8
+
+#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="tv.60" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",Wairarapa TV
+http://iptv.matthuisman.nz/nz/tv.60.m3u8
+
+#EXTINF:-1 tvg-name="Redbull TV" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-name="7TWO" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8
+
+#EXTINF:-1 tvg-name="7flix" tvg-id="tv.101305020525" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020525.png",7flix
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020525.m3u8
+
+#EXTINF:-1 tvg-name="7mate" tvg-id="tv.101305020523" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020523.png",7mate
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020523.m3u8
+
+#EXTINF:-1 tvg-name="9Gem" tvg-id="tv.101204200427" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200427.png",9Gem
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8
+
+#EXTINF:-1 tvg-name="9Go!" tvg-id="tv.101204200428" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200428.png",9Go!
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8
+
+#EXTINF:-1 tvg-name="9Life" tvg-id="tv.101204200424" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200424.png",9Life
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="tv.101002210221" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210221.png",ABC
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8
+
+#EXTINF:-1 tvg-name="ABC Comedy" tvg-id="tv.abc2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abc2.png",ABC Comedy
+http://iptv.matthuisman.nz/au/Sydney/tv.abc2.m3u8
+
+#EXTINF:-1 tvg-name="ABC KIDS" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.abckids.png",ABC KIDS
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8
+
+#EXTINF:-1 tvg-name="ABC ME" tvg-id="tv.101002210224" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",ABC ME
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="tv.101002210220" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",ABC NEWS
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-id="tv.101204200421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png",Channel 9
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-id="tv.320203000304" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",Food Network
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports News" tvg-id="tv.fox.sports.news" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",Fox Sports News
+http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8
+
+#EXTINF:-1 tvg-name="NITV" tvg-id="tv.320203000305" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",NITV
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8
+
+#EXTINF:-1 tvg-name="ONE" tvg-id="tv.101406020621" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020621.png",ONE
+http://iptv.matthuisman.nz/au/Sydney/tv.101406020621.m3u8
+
+#EXTINF:-1 tvg-name="RACING.COM" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",RACING.COM
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020528.m3u8
+
+#EXTINF:-1 tvg-name="SBS" tvg-id="tv.320203000301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",SBS
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8
+
+#EXTINF:-1 tvg-name="SBS VICELAND" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000302.m3u8
+
+#EXTINF:-1 tvg-name="Seven" tvg-id="tv.101305020520" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png",Seven
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8
+
+#EXTINF:-1 tvg-name="TEN" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
+http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8
